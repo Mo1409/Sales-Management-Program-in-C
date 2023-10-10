@@ -1,0 +1,16 @@
+15
+1 2.00 Maca
+2 1.50 Banana
+3 2.50 Laranja
+4 2.00 Cenoura
+5 3.00 Tomate
+6 2.00 Batata
+7 2.50 Cebola
+8 5.50 Milho
+9 2.50 Alface
+10 4.00 Abacate
+11 5.00 Morango
+12 6.00 Uva
+13 3.50 Pimentao 
+14 2.00 Couve
+15 1.50 Melancia

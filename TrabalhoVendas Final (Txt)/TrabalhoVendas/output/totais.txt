@@ -1,0 +1,81 @@
+
+Log de Vendas:
+[0] 1 13 4
+[1] 2 14 5
+[2] 3 7 2
+[3] 4 9 1
+[4] 5 3 6
+[5] 6 12 2
+[6] 7 6 3
+[7] 3 8 4
+[8] 2 10 5
+[9] 5 15 1
+[10] 6 2 2
+[11] 1 1 2
+[12] 1 4 4
+[13] 2 5 4
+[14] 7 5 3
+[15] 6 11 1
+[16] 3 1 2
+[17] 4 4 3
+[18] 5 5 1
+[19] 3 11 1
+[20] 2 15 5
+[21] 1 2 2
+[22] 5 7 2
+[23] 2 7 1
+[24] 2 13 7
+
+Catalogo de Produtos:
+[0] 1 2.00 Maçã
+[1] 2 1.50 Banana
+[2] 3 2.50 Laranja
+[3] 4 2.00 Cenoura
+[4] 5 3.00 Tomate
+[5] 6 2.00 Batata
+[6] 7 2.50 Cebola
+[7] 8 5.50 Milho
+[8] 9 2.50 Alface
+[9] 10 4.00 Abacate
+[10] 11 5.00 Morango
+[11] 12 6.00 Uva
+[12] 13 3.50 Pimentão
+[13] 14 2.00 Couve
+[14] 15 1.50 Melancia
+
+Lista de Vendedores:
+[0] 1 Vini
+[1] 2 Mohamad
+[2] 3 Alcides
+[3] 4 Manoel
+[4] 5 Rubens
+[5] 6 Isa
+[6] 7 Geralda
+
+Total geral vendido: 209.50
+
+Total de vendas de cada produto:
+Produto 1 (Maçã): 8.00
+Produto 2 (Banana): 6.00
+Produto 3 (Laranja): 15.00
+Produto 4 (Cenoura): 14.00
+Produto 5 (Tomate): 24.00
+Produto 6 (Batata): 6.00
+Produto 7 (Cebola): 12.50
+Produto 8 (Milho): 22.00
+Produto 9 (Alface): 2.50
+Produto 10 (Abacate): 20.00
+Produto 11 (Morango): 10.00
+Produto 12 (Uva): 12.00
+Produto 13 (Pimentão): 38.50
+Produto 14 (Couve): 10.00
+Produto 15 (Melancia): 9.00
+
+Total de vendas de cada vendedor:
+Vendedor 1 (Vini) : 29.00
+Vendedor 2 (Mohamad) : 76.50
+Vendedor 3 (Alcides) : 36.00
+Vendedor 4 (Manoel) : 8.50
+Vendedor 5 (Rubens) : 24.50
+Vendedor 6 (Isa) : 20.00
+Vendedor 7 (Geralda) : 15.00
